@@ -1,10 +1,11 @@
+<div align=center> 
 
  ![header](https://capsule-render.vercel.app/api?type=Waving&height=180&text=Welcome&fontColor=EAEAEA&color=0:dafdff,100:243762)
-[![DDong_kka's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjsh0208)](https://github.com/anuraghazra/github-readme-stats)
+
 <br><br>
 <div align=center><h1>📚 STACKS  </h1></div>
 
-<div align=center> 
+
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
@@ -20,7 +21,10 @@
   <br>
   
 
-</div>
-<div align=center><h1> Study log </h1></div>
 
-[![DDong_kka's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjsh0208)](https://github.com/anuraghazra/github-readme-stats)
+<div align=center><h1> ✏ Study log </h1></div>
+
+![DDong_kka's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjsh0208&theme=prussian&icons=true)
+
+
+</div>
