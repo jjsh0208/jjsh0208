@@ -1,5 +1,5 @@
 
-<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome&fontColor=EAEAEA)
 <br>
 <div>
@@ -16,4 +16,4 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 </div>
 <hr>
-</div>
+
