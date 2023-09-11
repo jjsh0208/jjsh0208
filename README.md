@@ -24,7 +24,7 @@
 
 <div align=center><h1> ✏ Study log </h1></div>
 
-![DDong_kka's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjsh0208&theme=prussian&icons=true)
+![DDong_kka's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjsh0208&theme=prussian&icons=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjsh0208)](https://github.com/anuraghazra/github-readme-stats)
 
