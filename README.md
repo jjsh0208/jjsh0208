@@ -1,6 +1,6 @@
 <div align=center> 
 
- ![header](https://capsule-render.vercel.app/api?type=Waving&height=180&text=DDong_kka's%20Github-nl-&fontSize=40&fontColor=EAEAEA&fontAlignY=30&color=0:dafdff,100:243762&desc=Welcome!&descAlign=58&descAlignY=50)
+ ![header](https://capsule-render.vercel.app/api?type=Waving&height=180&text=DDong_kka's%20Github-nl-&fontSize=40&fontColor=EAEAEA&fontAlignY=30&color=0:fcc5e4,50:c8699e,100:020f75&desc=Welcome!&descAlign=58&descAlignY=50)
 
 <br><br>
 <div align=center><h1>📚 STACKS  </h1></div>
