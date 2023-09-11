@@ -2,7 +2,7 @@
 
  ![header](https://capsule-render.vercel.app/api?type=Waving&height=180&text=DDong_kka's%20Github-nl-&fontSize=40&fontColor=EAEAEA&fontAlignY=30&color=0:00dbde,100:fc00ff&desc=Welcome!&descAlign=58&descAlignY=50)
 
-<br><br>
+<br>
 <div align=center><h1>📚 STACKS  </h1></div>
 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
