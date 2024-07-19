@@ -30,3 +30,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjsh0208&theme=ambient_gradient&layout=donut" />
 </a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jjsh0208&theme=tokyonight&hide_border=%EC%A7%84%EC%8B%A4)](https://git.io/streak-stats)
