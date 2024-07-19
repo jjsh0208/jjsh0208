@@ -1,6 +1,6 @@
 <div align=center> 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&height=80&text=☀️&fontSize=40&fontColor=EAEAEA&fontAlignY=30&color=0:64b3f4,100:c2e59c&desc=🏄‍♂️🏄🏾🏄🏻‍♀️&descAlign=75&descAlignY=70&section=footer)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=80&text=☀️&fontSize=40&fontColor=EAEAEA&fontAlign=10&fontAlignY=30&color=0:64b3f4,100:c2e59c&desc=🏄‍♂️🏄🏾🏄🏻‍♀️&descAlign=75&descAlignY=70&section=footer)
 
 <img src="https://github.com/dohun1109/dohun1109/assets/108252423/4ff6a21b-493f-4a6a-bb7a-16d4c55e1b77" width="90%" style="max-width: 100%;">
 </div>
