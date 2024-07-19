@@ -1,8 +1,9 @@
 
 ![coding](https://github.com/user-attachments/assets/507e3800-63da-4cf0-af34-adbc34f12e5e)
 
+hi I'm Seunghyun
 
-<div><h1>💻 Languages & Tools </h1></div>
+<div><h1>💻 Language & Tool </h1></div>
 
 <p align="center">
   <a href="https://skillicons.dev">
