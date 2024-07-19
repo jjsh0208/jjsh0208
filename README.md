@@ -1,5 +1,5 @@
 
-![coding](https://github.com/user-attachments/assets/507e3800-63da-4cf0-af34-adbc34f12e5e)
+<img src="https://github.com/user-attachments/assets/507e3800-63da-4cf0-af34-adbc34f12e5e" alt="coding" style="pointer-events: none;">
 
 hi I'm Seunghyun
 
