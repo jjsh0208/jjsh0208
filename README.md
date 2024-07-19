@@ -12,13 +12,15 @@
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=spring" />
   <br>
-  <img src="https://skillicons.dev/icons?i=notion,git,github,eclipse,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode&perline=5" />
 </div>
-
+<h1> 🌐 Contacts</h1>
+  <a href="https://legend-snowman-cd7.notion.site/DDong_kka-Blog-9d7078a72927403f9be599e8cfa402f8?pvs=4" target="_blank"><img src="https://img.shields.io/badge/DDong`kka Blog-6D4AFF?style=flat-square&logo=notion&logoColor=white"/></a
   </a>
-</p>
+</p> 
 
-><h1>📊 GitHub Statistics</h1>
+
+<h1>📊 GitHub Statistics</h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jjsh0208&theme=ambient_gradient&icons=true&show_icons=true&title_color=a8edea" />
 </a>
