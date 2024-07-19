@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode&perline=5" />
 </div>
 <h1> 🌐 Contacts</h1>
-<a href="https://legend-snowman-cd7.notion.site/DDong_kka-Blog-9d7078a72927403f9be599e8cfa402f8?pvs=4" target="_blank">
+<a href="https://insidious-prepared-2db.notion.site/DDong_kka-Blog-07f4a529ec82480aba8c0e4ebf34aa0b?pvs=4" target="_blank">
   <img src="https://img.shields.io/badge/DDong`kka Blog-6D4AFF?style=flat-square&logo=notion&logoColor=white" />
 </a>
 
