@@ -8,10 +8,11 @@ hi I'm Seunghyun
 <p align="center">
   <a href="https://skillicons.dev">
    <div>
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,docker,github,eclipse,vscode&perline=6" />
 </div>
 <h1> 🌐 Contacts</h1>
 <a href="https://insidious-prepared-2db.notion.site/DDong_kka-Blog-07f4a529ec82480aba8c0e4ebf34aa0b?pvs=4" target="_blank">
