@@ -6,7 +6,7 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/jjsh0208?pet-id=653870581612167270"
-    width="800"
+    width="900"
     height="150"
   />
 </a>
