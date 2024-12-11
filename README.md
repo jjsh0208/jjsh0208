@@ -2,13 +2,15 @@
 <img src="https://github.com/user-attachments/assets/507e3800-63da-4cf0-af34-adbc34f12e5e" alt="coding" style="pointer-events: none;">
 
 
+
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/jjsh0208?pet-id=646601350798629951"
+    src="https://render.gitanimals.org/lines/jjsh0208?pet-id=653870581612167270"
     width="800"
-    height="120"
+    height="150"
   />
 </a>
+  
   
   
 hi I'm Seunghyun
