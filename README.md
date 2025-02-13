@@ -27,7 +27,7 @@ hi I'm Seunghyun
   <img src="https://skillicons.dev/icons?i=git,docker,github,eclipse,vscode&perline=6" />
 </div>
 <h1> 🌐 Contacts</h1>
-<a href="https://insidious-prepared-2db.notion.site/DDong_kka-Blog-07f4a529ec82480aba8c0e4ebf34aa0b?pvs=4" target="_blank">
+<a href="[https://insidious-prepared-2db.notion.site/DDong_kka-Blog-07f4a529ec82480aba8c0e4ebf34aa0b?pvs=4](https://ddong-kka.tistory.com/)" target="_blank">
   <img src="https://img.shields.io/badge/DDong`kka Blog-6D4AFF?style=flat-square&logo=notion&logoColor=white" />
 </a>
 
