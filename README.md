@@ -11,9 +11,7 @@
   />
 </a>
   
-  
-  
-hi I'm Seunghyun
+  취준생 전승현입니다
 
 <div><h1>💻 Language & Tool </h1></div>
 
