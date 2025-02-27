@@ -3,13 +3,15 @@
 
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/jjsh0208?pet-id=653870581612167270"
-    width="900"
-    height="150"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jjsh0208&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jjsh0208"
+  width="1000"
+  height="300"
+/>
 </a>
+
+
   
   취준생 전승현입니다
 
