@@ -24,9 +24,10 @@
   <img src="https://skillicons.dev/icons?i=git,docker,github,eclipse,vscode&perline=6" />
 </div>
 <h1> 🌐 Contacts</h1>
-<a href="https://ddong-kka.tistory.com/" target="_blank">
+<a href="https://ddong-kka.tistory.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/DDong`kka%20Blog-FF6C00?style=flat-square&logo=tistory&logoColor=white" alt="티스토리 블로그">
 </a>
+
 </a>
 
 </p> 
