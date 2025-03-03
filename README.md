@@ -19,9 +19,9 @@
    <div>
   <img src="https://skillicons.dev/icons?i=java,spring,js" />
   <br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,docker,github,eclipse,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,github,idea,vscode&perline=6" />
 </div>
 <h1> 🌐 Contacts</h1>
 <a href="https://ddong-kka.tistory.com/" target="_blank" rel="noopener noreferrer">
