@@ -1,7 +1,7 @@
 
 <img src="https://github.com/user-attachments/assets/b369071c-3d64-4f57-b8a6-773e9c576610" style="pointer-events: none;" />
 
-
+<!--
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jjsh0208&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/jjsh0208"
@@ -9,7 +9,15 @@
     height="120"
   />
 </a>
-  
+-->
+  <a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/684965204138480419/draw"
+        width="1000"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 
 > *전승현입니다*
 <div><h1>💻 Language & Tool </h1></div>
