@@ -27,7 +27,7 @@
    <div>
   <img src="https://skillicons.dev/icons?i=java,spring,js" />
   <br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,rabbitmq,kafka" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,docker,aws,github,idea,vscode&perline=6" />
 </div>
