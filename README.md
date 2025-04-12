@@ -10,14 +10,16 @@
   />
 </a>
 -->
-  <a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/684965204138480419/draw"
-        width="1000"
-        height="300"
-        alt="gitanimals"
-      />
-    </a>
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jjsh0208&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/jjsh0208?pet-id=698572739436704879"
+    width="1000"
+    height="120"
+  />
+</a>
+
 
 > *전승현입니다*
 <div><h1>💻 Language & Tool </h1></div>
