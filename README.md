@@ -12,12 +12,12 @@
 -->
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jjsh0208&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/jjsh0208?pet-id=698572739436704879"
-    width="1000"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jjsh0208&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jjsh0208"
+  width="1000"
+  height="300"
+/>
 </a>
 
 
