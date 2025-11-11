@@ -1,6 +1,17 @@
 
 <img src="https://github.com/user-attachments/assets/b369071c-3d64-4f57-b8a6-773e9c576610" style="pointer-events: none;" />
 
+
+<h1>🧑‍💻 About Me</h1>
+
+<p>
+  안녕하세요. <strong>Java와 Spring Boot</strong> 기반 백엔드 개발에 강점을 가진 개발자 전승현입니다.<br>
+  <strong>대규모 트래픽</strong>에서도 안정적인 서비스를 개발하여 <strong>사용자 경험 향상</strong>에 기여하는 것을 목표로 하고 있습니다.
+</p>
+<p>
+  주요 경험으로, <strong>Redis 캐싱</strong>과 <strong>비동기 처리</strong> 기술을 적용하여
+  리뷰 '좋아요' 기능의 응답 시간을 <strong>63% 개선</strong>하고 평균 <strong>100ms 이내</strong>로 단축시킨 경험이 있습니다.
+</p>
 <h1>💡 Projects</h1>
 
 | 프로젝트 명                                       | 설명                                               | 기술 스택                                                                                                                                                                                      | 역할                                                                                                                                                       | 기간                |관련 <br> 링크                      |
