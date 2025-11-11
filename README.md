@@ -1,7 +1,6 @@
 
 <img src="https://github.com/user-attachments/assets/b369071c-3d64-4f57-b8a6-773e9c576610" style="pointer-events: none;" />
 
-
 <h1>🧑‍💻 About Me</h1>
 
 <p>
@@ -56,3 +55,5 @@
   </a>
 
 </div>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317lqwuznnpiobn2fk7lw72ksklq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=e23232&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
