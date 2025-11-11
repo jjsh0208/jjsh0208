@@ -15,15 +15,14 @@
 
 | 주제 (Topic) | 관련 링크 (Link) |
 | :--- | :--- |
-| 🚀 **[리뷰 평점]** 성능 최적화 (Query Indexing & Redis Pipeline) |[QueryIndexing 및 RedisPipline 도입](https://github.com/toolatebro/TakenSeat/wiki/%5BPerformance-Testing%5D-%EC%8A%B9%ED%98%84-%E2%80%90-%EB%A6%AC%EB%B7%B0-%ED%8F%89%EC%A0%90-%EA%B0%B1%EC%8B%A0%EC%9D%84-%EC%9C%84%ED%95%9C-Redis-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EB%B0%8F-%EC%BF%BC%EB%A6%AC-%EC%9D%B8%EB%8D%B1%EC%8B%B1-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0) <br> 
-[기존 성능 측정](https://github.com/toolatebro/TakenSeat/wiki/%5BPerformance-Testing%5D-%EC%8A%B9%ED%98%84-%E2%80%90-%EB%A6%AC%EB%B7%B0-%EB%B3%80%EA%B2%BD-%EA%B0%90%EC%A7%80-%EA%B8%B0%EB%B0%98-%ED%8F%89%EC%A0%90-%EC%BA%90%EC%8B%B1-%EA%B0%B1%EC%8B%A0-%EA%B8%B0%EB%8A%A5%EC%9D%98-%EC%B2%98%EB%A6%AC-%EC%84%B1%EB%8A%A5-%EC%B8%A1%EC%A0%95) <br>
-[리뷰 변경 감지 기반 평점 갱신](https://github.com/toolatebro/TakenSeat/wiki/%5BPerformance-Testing%5D-%EC%8A%B9%ED%98%84-%E2%80%90-%EB%A6%AC%EB%B7%B0-%EB%B3%80%EA%B2%BD-%EA%B0%90%EC%A7%80-%EA%B8%B0%EB%B0%98-%ED%8F%89%EC%A0%90-%EC%BA%90%EC%8B%B1-%EA%B0%B1%EC%8B%A0-%EA%B8%B0%EB%8A%A5%EC%9D%98-%EC%B2%98%EB%A6%AC-%EC%84%B1%EB%8A%A5-%EC%B8%A1%EC%A0%95)|
+| 🚀 **[리뷰 평점]** 성능 최적화 (Query Indexing & Redis Pipeline) |[QueryIndexing 및 RedisPipline 도입](https://github.com/toolatebro/TakenSeat/wiki/%5BPerformance-Testing%5D-%EC%8A%B9%ED%98%84-%E2%80%90-%EB%A6%AC%EB%B7%B0-%ED%8F%89%EC%A0%90-%EA%B0%B1%EC%8B%A0%EC%9D%84-%EC%9C%84%ED%95%9C-Redis-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EB%B0%8F-%EC%BF%BC%EB%A6%AC-%EC%9D%B8%EB%8D%B1%EC%8B%B1-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0)<br> [기존 성능 측정](https://github.com/toolatebro/TakenSeat/wiki/%5BPerformance-Testing%5D-%EC%8A%B9%ED%98%84-%E2%80%90-%EB%A6%AC%EB%B7%B0-%EB%B3%80%EA%B2%BD-%EA%B0%90%EC%A7%80-%EA%B8%B0%EB%B0%98-%ED%8F%89%EC%A0%90-%EC%BA%90%EC%8B%B1-%EA%B0%B1%EC%8B%A0-%EA%B8%B0%EB%8A%A5%EC%9D%98-%EC%B2%98%EB%A6%AC-%EC%84%B1%EB%8A%A5-%EC%B8%A1%EC%A0%95)<br> [리뷰 변경 감지 기반 평점 갱신](https://github.com/toolatebro/TakenSeat/wiki/%5BPerformance-Testing%5D-%EC%8A%B9%ED%98%84-%E2%80%90-%EB%A6%AC%EB%B7%B0-%EB%B3%80%EA%B2%BD-%EA%B0%90%EC%A7%80-%EA%B8%B0%EB%B0%98-%ED%8F%89%EC%A0%90-%EC%BA%90%EC%8B%B1-%EA%B0%B1%EC%8B%A0-%EA%B8%B0%EB%8A%A5%EC%9D%98-%EC%B2%98%EB%A6%AC-%EC%84%B1%EB%8A%A5-%EC%B8%A1%EC%A0%95)|
 | 🚀 **[MySql]** MySql에서 UUID,Double 타입 처리  | [Blog](https://ddong-kka.tistory.com/38) |
 | 🚀 **[Redis 직렬화]** Redis 캐싱 - Jackson LocalDateTime 직렬화 문제 해결 | [Blog](https://ddong-kka.tistory.com/34?category=1164019)  |
 | 🚀 **[도메인 설계리]** 결제 도메인 트러블슈팅 (책임 분리) | [Blog](https://ddong-kka.tistory.com/36) |
 | 💻 **[동시성 제어]** 재고 감소 동시성 제어 (RabbitMQ & 비관적 락) | [Blog](https://ddong-kka.tistory.com/28?category=1164019) |
 | 💻 **[Saga Pattern]**  무한 재시도 방지 (Redis 활용) | [Blog](https://ddong-kka.tistory.com/27)|
-| 📦 **[Spring MVC]** 데이터 바인딩 순서 (트러블슈팅)| [Notion](https://ddong-kka.tistory.com/6) |
+| 📦 **[Spring MVC]** 데이터 바인딩 순서 (트러블슈팅)| [Blog](https://ddong-kka.tistory.com/6) |
+| 🌱 **[Elasticsearch]** '_class' 필드 역직렬화 문제 해결 | [Blog](https://ddong-kka.tistory.com/59) |
 
 
 <h1>📊 GitHub Statistics</h1>
