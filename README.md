@@ -4,13 +4,15 @@
 <h1>🧑‍💻 About Me</h1>
 
 <p>
-  안녕하세요. <strong>Java와 Spring Boot</strong> 기반 백엔드 개발에 강점을 가진 개발자 전승현입니다.<br>
-  <strong>대규모 트래픽</strong>에서도 안정적인 서비스를 개발하여 <strong>사용자 경험 향상</strong>에 기여하는 것을 목표로 하고 있습니다.
+👋 안녕하세요, 성능과 안정성을 최우선으로 하는 개발자 전승현입니다.
 </p>
 <p>
-  주요 경험으로, <strong>Redis 캐싱</strong>과 <strong>비동기 처리</strong> 기술을 적용하여
-  리뷰 '좋아요' 기능의 응답 시간을 <strong>63% 개선</strong>하고 평균 <strong>100ms 이내</strong>로 단축시킨 경험이 있습니다.
+  <strong>Java</strong>와 <strong>String Boot</strong>를 주력으로 사용하며, 대규모 트래픽 환경에서의 문제 해결에 집중합니다.
 </p>
+
+- 🚀 <strong>Performance</strong>: N+1 문제 해결 및 아키텍처 개선으로 배치 성능 19배 향상
+- 🛡️ <strong>Stability</strong>: 분산 환경 동시성 제어를 통해 데이터 무결성 100% 보장
+
 <h1>💡 Projects</h1>
 
 | 프로젝트 명                                       | 설명                                               | 기술 스택                                                                                                                                                                                      | 역할                                                                                                                                                       | 기간                |관련 <br> 링크                      |
