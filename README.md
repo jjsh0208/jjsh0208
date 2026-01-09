@@ -1,17 +1,23 @@
 
 <img src="https://github.com/user-attachments/assets/b369071c-3d64-4f57-b8a6-773e9c576610" style="pointer-events: none;" />
 
-<h1>🧑‍💻 About Me</h1>
+# 🧑‍💻 About Me
 
 <p>
-👋 안녕하세요, 성능과 안정성을 최우선으로 하는 개발자 전승현입니다.
-</p>
-<p>
-  <strong>Java</strong>와 <strong>String Boot</strong>를 주력으로 사용하며, 대규모 트래픽 환경에서의 문제 해결에 집중합니다.
+  <strong>변화를 즐기며 새로운 기술을 비즈니스 가치로 전환하는 백엔드 개발자 전승현입니다.</strong>
 </p>
 
-- 🚀 <strong>Performance</strong>: N+1 문제 해결 및 아키텍처 개선으로 배치 성능 19배 향상
-- 🛡️ <strong>Stability</strong>: 분산 환경 동시성 제어를 통해 데이터 무결성 100% 보장
+<p>
+  Java와 Spring Boot를 기반으로 고성능·고가용성 시스템을 설계하며,<br>
+  단순한 기능 구현을 넘어 <strong>데이터 무결성</strong>과 <strong>시스템 효율</strong>의 최적점을 찾는 데 집중합니다.
+</p>
+
+### 🚀 Key Contributions & Achievements
+
+- **Performance Optimization**: Redis Pipeline 및 캐싱 전략 도입으로 배치 성능 **19배 향상** ($3.8s \rightarrow 0.2s$)
+- **System Stability**: 비관적 락(Pessimistic Lock) 및 Saga 패턴 적용으로 분산 환경 **데이터 무결성 100% 보장**
+- **Architecture**: Kafka/RabbitMQ 기반의 **이벤트 드리븐 아키텍처** 설계를 통한 서비스 간 결합도 해소
+- **Innovation**: OpenAI API 및 Elasticsearch 등 신기술을 실무에 도입하여 **비즈니스 문제 해결**
 
 <h1>💡 Projects</h1>
 
