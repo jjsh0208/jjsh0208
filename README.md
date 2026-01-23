@@ -28,6 +28,8 @@
   - GitHub Actions Matrix Strategy를 활용한 멀티 모듈 병렬 빌드 환경 구축
   - Docker Compose & SSH Action 연동으로 원격 배포 파이프라인(CI/CD) 자동화
 
+<br><br>
+
 <h1>💡 Projects</h1>
 
 | 프로젝트 명                                       | 설명                                               | 기술 스택                                                                                                                                                                                      | 역할                                                                                                                                                       | 기간                |관련 <br> 링크                      |
@@ -37,6 +39,7 @@
 | 📦 **배달 주문 백엔드 애플리케이션**                      | 배달 주문 및 회원 인증 기능을 포함한 백엔드 애플리케이션                 | `Java` `Spring Boot`  `Spring Security ` `QueryDSL`  `Swagger (Springdoc OpenAPI)` `PostgreSQL` `H2` `Tomcat 9.0` `JWT` `Docker` `Docker Compose` `nginx` `GitHub Actions` | - USER 도메인 설계 및 인증/인가 로직 구현<br>- JWT 발급 및 재발급 기능 개발<br>- Spring Security 기반 토큰 인증 구조 설계                                                                  | 2025.02  | [GitHub](https://github.com/jjsh0208/delivery)               |
 | 🌱 **농촌 체험 기획 및 홍보 영상 제작 지원 플랫폼** | 농가의 체험 등록을 돕고 AI 기반 리브랜딩·추천·홍보 영상 제작을 제공하는 웹 서비스 | `Java` `Spring Boot`  `Elasticsearch` `FastAPI` `OpenAI API` `MySQL` `React` `Docker`                                                             | - 농장 및 체험 도메인 API 설계 및 개발<br>- OpenAI API 연동으로 체험 리브랜딩 및 맞춤형 추천 기능 구현<br>- Elasticsearch 기반 고급 검색 기능 개발                                                  | 2025.08 ~ 2025.10   | [GitHub](https://github.com/Onnongwa/Onnongwa) |
 
+<br><br>
 
 <h1> 🏆 Key Achievements </h1>
 
@@ -51,6 +54,7 @@
 | 📦 **[Spring MVC]** 데이터 바인딩 순서 (트러블슈팅)| [Blog](https://ddong-kka.tistory.com/6) |
 | 🌱 **[Elasticsearch]** '_class' 필드 역직렬화 문제 해결 | [Blog](https://ddong-kka.tistory.com/59) |
 
+<br><br>
 
 <h1>📊 GitHub Statistics</h1>
 
