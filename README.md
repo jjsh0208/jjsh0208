@@ -1,23 +1,32 @@
 
-<img src="https://github.com/user-attachments/assets/b369071c-3d64-4f57-b8a6-773e9c576610" style="pointer-events: none;" />
+<!-- <img src="https://github.com/user-attachments/assets/b369071c-3d64-4f57-b8a6-773e9c576610" style="pointer-events: none;" /> -->
 
 # 🧑‍💻 About Me
 
-<p>
-  <strong>변화를 즐기며 새로운 기술을 비즈니스 가치로 전환하는 백엔드 개발자 전승현입니다.</strong>
-</p>
+> **"10만 건의 데이터를 0.2초 만에 처리하는 효율성을 추구합니다."**
 
-<p>
-  Java와 Spring Boot를 기반으로 고성능·고가용성 시스템을 설계하며,<br>
-  단순한 기능 구현을 넘어 <strong>데이터 무결성</strong>과 <strong>시스템 효율</strong>의 최적점을 찾는 데 집중합니다.
-</p>
+반복되는 **비효율을 자동화**하고, 기술적 근거를 바탕으로 **시스템 안정성**을 확보하는 백엔드 개발자 **전승현**입니다.
+단순 기능 구현을 넘어, **Redis 파이프라인 및 I/O 구조 개선** 등을 통해 병목 지점을 해결하는 데 강점이 있습니다.
 
-### 🚀 Key Contributions & Achievements
+<br>
 
-- **Performance Optimization**: Redis Pipeline 및 캐싱 전략 도입으로 배치 성능 **19배 향상** ($3.8s \rightarrow 0.2s$)
-- **System Stability**: 비관적 락(Pessimistic Lock) 및 Saga 패턴 적용으로 분산 환경 **데이터 무결성 100% 보장**
-- **Architecture**: Kafka/RabbitMQ 기반의 **이벤트 드리븐 아키텍처** 설계를 통한 서비스 간 결합도 해소
-- **Innovation**: OpenAI API 및 Elasticsearch 등 신기술을 실무에 도입하여 **비즈니스 문제 해결**
+### 🚀 Core Competencies
+
+- **성능 최적화**
+  - Redis Pipeline 도입 및 I/O 구조 개선으로 대규모 트래픽 처리에 최적화
+  - 티켓팅 프로젝트 Batch 작업 성능 **19배 향상** 달성 ($3.8s \rightarrow 0.2s$, 95% 단축)
+
+- **분산 아키텍처**
+  - Kafka/RabbitMQ 기반의 **Event-Driven Architecture** 설계
+  - Saga 패턴을 적용하여 분산 환경에서의 데이터 정합성 보장 및 결합도 해소
+
+- **데이터 무관성 및 보안**
+  - 비관적 락(Pessimistic Lock)을 활용한 동시성 제어 및 **결제 멱등성** 설계
+  - Spring Security & JWT 기반의 이중 토큰 인증(Refresh/Access) 체계 구축
+
+- **DevOps 및 자동화**
+  - GitHub Actions Matrix Strategy를 활용한 멀티 모듈 병렬 빌드 환경 구축
+  - Docker Compose & SSH Action 연동으로 원격 배포 파이프라인(CI/CD) 자동화
 
 <h1>💡 Projects</h1>
 
