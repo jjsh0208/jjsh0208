@@ -2,6 +2,7 @@
 <img src="https://github.com/user-attachments/assets/b369071c-3d64-4f57-b8a6-773e9c576610" style="pointer-events: none;" /> 
 
 # 🧑‍💻 About Me
+> [📄 포트폴리오(PDF)](https://github.com/jjsh0208/portfolio/blob/master/%EC%A0%84%EC%8A%B9%ED%98%84%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
 > **기술적 분석을 바탕으로 병목을 해결하고, 최적의 구조를 설계하는 백엔드 개발자 전승현입니다.**
 
