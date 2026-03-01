@@ -48,7 +48,7 @@
 
 | 주제 (Topic) | 관련 링크 (Link) |
 | :--- | :--- |
-| 🚀 **[리뷰 평점]** 성능 최적화 (Query Indexing & Redis Pipeline) | [Blog)](https://ddong-kka.tistory.com/61) |
+| 🚀 **[리뷰 평점]** 성능 최적화 (Query Indexing & Redis Pipeline) | [Blog](https://ddong-kka.tistory.com/61) |
 | 🚀 **[MySql]** MySql에서 UUID,Double 타입 처리  | [Blog](https://ddong-kka.tistory.com/38) |
 | 🚀 **[Redis 직렬화]** Redis 캐싱 - Jackson LocalDateTime 직렬화 문제 해결 | [Blog](https://ddong-kka.tistory.com/34?category=1164019)  |
 | 🚀 **[도메인 설계]** 결제 도메인 트러블슈팅 (책임 분리) | [Blog](https://ddong-kka.tistory.com/36) |
