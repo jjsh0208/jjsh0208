@@ -1,38 +1,10 @@
 
 <img src="https://github.com/user-attachments/assets/b369071c-3d64-4f57-b8a6-773e9c576610" style="pointer-events: none;" /> 
 
-# 🧑‍💻 About Me
+# 🧾 Portflio
 > [📄 포트폴리오(PDF)보기 ](https://github.com/jjsh0208/portfolio/blob/master/%EC%A0%84%EC%8A%B9%ED%98%84%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
-> **병목을 분석하고 시스템 성능을 개선하는 백엔드 개발자**
-
-대용량 데이터 처리 과정에서 발생하는 병목을 분석하고 시스템 성능을 개선하는 과정에 흥미를 느낍니다.  
-티켓팅 서비스 프로젝트에서 Redis Pipeline과 DB IN절을 적용해 10만 건 기준 배치 작업 시간을 **3.8초에서 0.2초로 단축**하며 I/O 병목을 해결한 경험이 있습니다.
-
-Kafka, RabbitMQ 기반의 이벤트 중심 아키텍처와 Redis를 활용한 캐싱 전략을 적용하며 확장성과 안정성을 고려한 백엔드 시스템을 구현해 왔습니다.
-
-단순 기능 구현을 넘어 문제의 원인을 분석하고 구조적으로 해결하는 개발자로 나아가고 있습니다.
 <br>
-
-### 🚀 Core Competencies
-
-- **성능 최적화**
-  - Redis Pipeline 도입 및 I/O 구조 개선으로 Batch 처리 병목 해결
-  - 티켓팅 프로젝트 Batch 작업 성능 **19배 향상** 달성 (3.8s → 0.2s, 95% 단축)
-
-- **분산 아키텍처**
-  - Kafka/RabbitMQ 기반 **Event-Driven Architecture 구현 경험**
-  - Saga 패턴 적용으로 분산 환경에서 데이터 정합성 보장 및 서비스 간 결합도 완화
-
-- **동시성 제어 및 보안**
-  - 비관적 락(Pessimistic Lock)을 활용한 동시성 제어
-  - Spring Security & JWT 기반 이중 토큰 인증(Access/Refresh) 시스템 구축
-
-- **DevOps 및 자동화**
-  - GitHub Actions Matrix Strategy 기반 멀티 모듈 병렬 빌드 환경 구축
-  - Docker Compose & SSH Action을 활용한 CI/CD 배포 파이프라인 자동화
-
-<br><br>
 
 <h1>💡 Projects</h1>
 
