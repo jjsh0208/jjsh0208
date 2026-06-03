@@ -1,47 +1,33 @@
-
 <img src="https://github.com/user-attachments/assets/b369071c-3d64-4f57-b8a6-773e9c576610" style="pointer-events: none;" /> 
 
 # 🧾 Portfolio
-> [📄 포트폴리오(PDF)보기 ](https://github.com/jjsh0208/portfolio/blob/master/%EC%A0%84%EC%8A%B9%ED%98%84%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
+> [📄 백엔드 엔지니어 포트폴리오(PDF) 보기](https://github.com/jjsh0208/portfolio/blob/master/%EC%A0%84%EC%8A%B9%ED%98%84%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
 <br>
 
 <h1>💡 Projects</h1>
 
-| 프로젝트 명                                       | 설명                                               | 기술 스택                                                                                                                                                                                      | 역할                                                                                                                                                       | 기간                |관련 <br> 링크                      |
-| :------------------------------------------- | :----------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------- | :------------------------- |
-| 🚀 **공연 및 콘서트 티켓팅 플랫폼**                | 대규모 공연 예매 트래픽을 처리하기 위한 실시간 티켓 예매 백엔드 시스템         | `Java` `Spring Boot` `MySQL` `Redis` `Kafka` `FeignClient` `QueryDSL` `TossPayments API` `Docker` `EC2` `GitHub Actions`                                                                   | - 공연·예매·결제 도메인 API 설계 및 개발<br>- Kafka 기반 비동기 메시징 처리<br>- Redis 캐싱 및 동시성 제어 적용<br>- FeignClient 기반 서비스 간 통신 구현<br>- GitHub Actions + Docker를 이용한 CI/CD 구축 | 2025.04 ~ 2024.05 | [GitHub](https://github.com/jjsh0208/TakenSeat)  |
-| 💻 **물류 관리 및 배송 플랫폼**                  | 주문·상품·업체 간 연동되는 물류 관리 및 배송 자동화 시스템               | `Java` `Spring Boot` `PostgreSQL` `Redis` `RabbitMQ` `FeignClient` `QueryDSL` `Gemini API` `Slack API` `Docker`                                                                            | - 주문·상품·업체 간 사가(Saga) 패턴 기반 프로세스 설계<br>- 도메인 REST API 및 메시지 기반 MSA 구조 설계<br>- RabbitMQ 기반 이벤트 처리 구조 설계 및 운영<br>- 이벤트 시퀀스 정리 및 팀 리딩 (팀장)                  | 2025.03   | [GitHub](https://github.com/jjsh0208/b2b-service-platform)               |
-| 📦 **배달 주문 백엔드 애플리케이션**                      | 배달 주문 및 회원 인증 기능을 포함한 백엔드 애플리케이션                 | `Java` `Spring Boot`  `Spring Security ` `QueryDSL`  `Swagger (Springdoc OpenAPI)` `PostgreSQL` `H2` `Tomcat 9.0` `JWT` `Docker` `Docker Compose` `nginx` `GitHub Actions` | - USER 도메인 설계 및 인증/인가 로직 구현<br>- JWT 발급 및 재발급 기능 개발<br>- Spring Security 기반 토큰 인증 구조 설계                                                                  | 2025.02  | [GitHub](https://github.com/jjsh0208/delivery)               |
-| 🌱 **농촌 체험 기획 및 홍보 영상 제작 지원 플랫폼** | 농가의 체험 등록을 돕고 AI 기반 리브랜딩·추천·홍보 영상 제작을 제공하는 웹 서비스 | `Java` `Spring Boot`  `Elasticsearch` `FastAPI` `OpenAI API` `MySQL` `React` `Docker`                                                             | - 농장 및 체험 도메인 API 설계 및 개발<br>- OpenAI API 연동으로 체험 리브랜딩 및 맞춤형 추천 기능 구현<br>- Elasticsearch 기반 고급 검색 기능 개발                                                  | 2025.08 ~ 2025.10   | [GitHub](https://github.com/Onnongwa/Onnongwa) |
+| 프로젝트 명 | 핵심 성과 및 담당 역할 | 주요 기술 스택 | 기간 / 링크 |
+| :--- | :--- | :--- | :--- |
+| 🚀 **Taken Seat**<br>(공연 예매 플랫폼) | **대규모 트래픽 기반의 티켓 예매 시스템 구축**<br>• Redis Pipeline & Bulk Query 도입으로 배치 처리 속도 19배 향상 (3.8s ➡️ 0.2s)<br>• Kafka 기반 비동기 메시징 처리 및 결제 도메인 API 설계 | `Spring Boot` `Redis` `Kafka` `MySQL` | 25.04 - 25.05<br>[🔗 GitHub](https://github.com/jjsh0208/TakenSeat) |
+| 💻 **DeliverySquad 10**<br>(B2B 물류/배송 플랫폼) | **MSA 기반 데이터 정합성 보장 및 이벤트 주도 아키텍처 설계**<br>• 파티션 큐와 Redis 분산 락을 도입하여 핫 키 트래픽 격리 (결제 지연 33배 단축)<br>• Saga 패턴을 활용한 서비스 간 분산 트랜잭션 구축 및 멱등성 보장 (팀장) | `Spring Boot` `RabbitMQ` `Redis` `PostgreSQL` | 25.03 - 25.03<br>[🔗 GitHub](https://github.com/jjsh0208/b2b-service-platform) |
+| 🌱 **Onnongwa**<br>(농촌 체험/리브랜딩 플랫폼) | **AI 연동 및 검색 엔진 기반 맞춤형 추천 서비스 구축**<br>• OpenAI API를 활용한 체험 리브랜딩 및 사용자 맞춤형 추천 기능 구현<br>• Elasticsearch를 도입하여 복잡한 조건의 농장/체험 도메인 고급 검색 성능 최적화 | `Spring Boot` `Elasticsearch` `OpenAI API` `MySQL` `Docker` | 25.08 - 25.10<br>[🔗 GitHub](https://github.com/Onnongwa/Onnongwa) |
+| 📦 **주문의 민족**<br>(배달 주문 플랫폼) | **인증/인가 및 보안을 강화한 백엔드 애플리케이션**<br>• Spring Security와 JWT를 활용한 Access/Refresh 이중 토큰 인증 아키텍처 설계<br>• USER 도메인 안정성 확보 및 GitHub Actions 기반 CI/CD 파이프라인 구축 | `Spring Boot` `Spring Security` `JWT` `Docker` | 25.02 - 25.02<br>[🔗 GitHub](https://github.com/jjsh0208/delivery) |
 
 <br><br>
 
-<h1> 🎯 Trouble Shooting </h1>
+<h1> 🔥 Core Engineering (Trouble Shooting) </h1>
 
-| 주제 (Topic) | 관련 링크 (Link) |
-| :--- | :--- |
-| 🚀 **[리뷰 평점]** 성능 최적화 (Query Indexing & Redis Pipeline) | [Blog](https://ddong-kka.tistory.com/61) |
-| 🚀 **[MySql]** MySql에서 UUID,Double 타입 처리  | [Blog](https://ddong-kka.tistory.com/38) |
-| 🚀 **[Redis 직렬화]** Redis 캐싱 - Jackson LocalDateTime 직렬화 문제 해결 | [Blog](https://ddong-kka.tistory.com/34?category=1164019)  |
-| 🚀 **[도메인 설계]** 결제 도메인 트러블슈팅 (책임 분리) | [Blog](https://ddong-kka.tistory.com/36) |
-| 💻 **[동시성 제어]** 재고 감소 동시성 제어 (RabbitMQ & 비관적 락) | [Blog](https://ddong-kka.tistory.com/28?category=1164019) |
-| 💻 **[Saga Pattern]**  무한 재시도 방지 (Redis 활용) | [Blog](https://ddong-kka.tistory.com/27)|
-| 📦 **[Spring MVC]** 데이터 바인딩 순서 (트러블슈팅)| [Blog](https://ddong-kka.tistory.com/6) |
-| 🌱 **[Elasticsearch]** '_class' 필드 역직렬화 문제 해결 | [Blog](https://ddong-kka.tistory.com/59) |
+| 엔지니어링 주제 (Topic) | 주요 내용 및 해결 방안 | 관련 링크 |
+| :--- | :--- | :--- |
+| ⚡ **[아키텍처 & 동시성]**<br>대규모 트래픽 격리 및 동시성 제어 | RabbitMQ 파티션 큐 분산 라우팅 및 Redis 분산 락(Redisson)을 통한 Hot Key 병목 해소 (일반 결제 지연 234ms ➡️ 7ms 단축) | [Wiki 보기]([https://github.com/DevSquad10/b2b-service-platform/wiki](https://ddong-kka.tistory.com/83)) |
+| 🚀 **[데이터베이스]**<br>대용량 데이터 조회 성능 최적화 | 복합 인덱스(Query Indexing) 설계 및 Redis Pipeline을 활용한 쿼리 조회 및 집계 성능 극대화 | [Blog 보기](https://ddong-kka.tistory.com/61) |
+| 🔄 **[MSA & 트랜잭션]**<br>Saga Pattern 무한 재시도 방지 | 분산 환경에서 발생하는 트랜잭션 실패 시, Redis 멱등성 키와 DLQ를 활용한 안전한 보상 트랜잭션(Rollback) 파이프라인 구축 | [Blog 보기](https://ddong-kka.tistory.com/27) |
+| 🏛️ **[도메인 설계]**<br>결제 시스템 책임 분리 | 결제 프로세스의 비즈니스 복잡도를 낮추기 위한 외부 API 연동 계층과 핵심 도메인 로직의 객체지향적 책임 분리 | [Blog 보기](https://ddong-kka.tistory.com/36) |
 
 <br><br>
 
 <h1>📊 GitHub Statistics</h1>
-
-<!-- <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=jjsh0208&theme=vue-dark&icons=true&show_icons=true&title_color=a8edea" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjsh0208&theme=vue-dark&layout=donut" />
-  </a>
-</div> -->
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jjsh0208&utm_content=farm">
@@ -51,9 +37,6 @@
   <a href="https://solved.ac/jjssh0208">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jjssh0208" alt="Solved.ac Profile"/>
   </a>
-
-</div>
-
 </div>
 
 <h1>🎧 Now Playing</h1>
