@@ -20,7 +20,7 @@
 
 | 엔지니어링 주제 (Topic) | 주요 내용 및 해결 방안 | 관련 링크 |
 | :--- | :--- | :--- |
-| ⚡ **[아키텍처 & 동시성]**<br>대규모 트래픽 격리 및 동시성 제어 | RabbitMQ 파티션 큐 분산 라우팅 및 Redis 분산 락(Redisson)을 통한 Hot Key 병목 해소 (일반 결제 지연 234ms ➡️ 7ms 단축) | [Wiki 보기]([https://github.com/DevSquad10/b2b-service-platform/wiki](https://ddong-kka.tistory.com/83)) |
+| ⚡ **[아키텍처 & 동시성]**<br>대규모 트래픽 격리 및 동시성 제어 | RabbitMQ 파티션 큐 분산 라우팅 및 Redis 분산 락(Redisson)을 통한 Hot Key 병목 해소 (일반 결제 지연 234ms ➡️ 7ms 단축) | [Wiki 보기](https://github.com/DevSquad10/b2b-service-platform/wiki) |
 | 🚀 **[데이터베이스]**<br>대용량 데이터 조회 성능 최적화 | 복합 인덱스(Query Indexing) 설계 및 Redis Pipeline을 활용한 쿼리 조회 및 집계 성능 극대화 | [Blog 보기](https://ddong-kka.tistory.com/61) |
 | 🔄 **[MSA & 트랜잭션]**<br>Saga Pattern 무한 재시도 방지 | 분산 환경에서 발생하는 트랜잭션 실패 시, Redis 멱등성 키와 DLQ를 활용한 안전한 보상 트랜잭션(Rollback) 파이프라인 구축 | [Blog 보기](https://ddong-kka.tistory.com/27) |
 | 🏛️ **[도메인 설계]**<br>결제 시스템 책임 분리 | 결제 프로세스의 비즈니스 복잡도를 낮추기 위한 외부 API 연동 계층과 핵심 도메인 로직의 객체지향적 책임 분리 | [Blog 보기](https://ddong-kka.tistory.com/36) |
