@@ -1,9 +1,5 @@
 <img src="https://github.com/user-attachments/assets/b369071c-3d64-4f57-b8a6-773e9c576610" style="pointer-events: none;" /> 
 
-# 🧾 Portfolio
-> [📄 백엔드 엔지니어 포트폴리오(PDF) 보기](https://github.com/jjsh0208/portfolio/blob/master/%EC%A0%84%EC%8A%B9%ED%98%84%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%202026-06-01.pdf)
-
-<br>
 
 <h1>💡 Projects</h1>
 
@@ -25,7 +21,21 @@
 | 🔄 **[MSA & 트랜잭션]**<br>Saga Pattern 무한 재시도 방지 | 분산 환경에서 발생하는 트랜잭션 실패 시, Redis 멱등성 키와 DLQ를 활용한 안전한 보상 트랜잭션(Rollback) 파이프라인 구축 | [Blog 보기](https://ddong-kka.tistory.com/27) |
 | 🏛️ **[도메인 설계]**<br>결제 시스템 책임 분리 | 결제 프로세스의 비즈니스 복잡도를 낮추기 위한 외부 API 연동 계층과 핵심 도메인 로직의 객체지향적 책임 분리 | [Blog 보기](https://ddong-kka.tistory.com/36) |
 
-<br><br>
+<br>
+
+<h1>🤖 AI Coding Activity</h1>
+
+<div align="center">
+
+  <img
+    src="https://raw.githubusercontent.com/jjsh0208/token-history/master/charts/day/pixel-card.svg"
+    width="100%"
+  />
+
+</div>
+
+<br>
+
 
 <h1>📊 GitHub Statistics</h1>
 
