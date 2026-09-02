@@ -23,19 +23,6 @@
 
 <br>
 
-<h1>🤖 AI Coding Activity</h1>
-
-<div align="center">
-
-  <img
-    src="https://raw.githubusercontent.com/jjsh0208/token-history/master/charts/day/pixel-card.svg"
-    width="100%"
-  />
-
-</div>
-
-<br>
-
 
 <h1>📊 GitHub Statistics</h1>
 
