@@ -31,12 +31,11 @@
 </div>
 
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjsh0208&theme=github_dark&animation=load"
-    width="100%"
-    alt="Profile Details"
-  />
-
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjsh0208&theme=vue&animation=load"
+  width="100%"
+  alt="Profile Details"
+/>
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jjsh0208&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/jjsh0208" width="440" height="280"/>
