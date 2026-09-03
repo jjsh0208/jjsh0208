@@ -2,10 +2,8 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    # 매일 한국시간 오전 9시 = UTC 00:00
     - cron: "0 0 * * *"
 
-  # Actions 탭에서 수동 실행 가능
   workflow_dispatch:
 
 permissions:
@@ -16,15 +14,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v6
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 2
 
-      - name: Generate Space Shooter
-        uses: czl9707/gh-space-shooter@v2
+      - uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: jjsh0208
           output-path: "game.gif"
           strategy: "random"
+          fps: 40
