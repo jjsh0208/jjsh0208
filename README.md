@@ -44,14 +44,6 @@
   
 </p>
 
-</div>
-
-<h1>📊 GitHub Statistics</h1>
-
-
-  
-</div>
-
 <!-- <h1>🎧 Now Playing</h1>
 
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317lqwuznnpiobn2fk7lw72ksklq"> -->
