@@ -40,6 +40,9 @@
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jjsh0208&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/jjsh0208" width="440" height="280"/>
   </a>
+
+![Poke-README 카드 미리보기](https://pokereadme.murilonoguez.com.br/api?user=jjsh0208&pokes=377,378,379,486,894,895&names=%EB%A0%88%EC%A7%80%EB%9D%BD,%EB%A0%88%EC%A7%80%EC%95%84%EC%9D%B4%EC%8A%A4,%EB%A0%88%EC%A7%80%EC%8A%A4%ED%8B%B8,%EB%A0%88%EC%A7%80%EA%B8%B0%EA%B0%80%EC%8A%A4,%EB%A0%88%EC%A7%80%EC%97%90%EB%A0%88%ED%82%A4,%EB%A0%88%EC%A7%80%EB%93%9C%EB%9E%98%EA%B3%A0&bg=rain)
+
   
 </p>
 
